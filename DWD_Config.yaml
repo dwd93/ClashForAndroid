@@ -17,7 +17,7 @@ rule-providers:
   DWD_Gaming:
     type: http
     behavior: classical
-    path: "./DWD_rule/DWD_gaming.yaml"
+    path: "./DWD_rule/DWD_Gaming.yaml"
     url: https://raw.githubusercontent.com/dwd93/ClashForAndroid/main/rule/DWD_Gaming.yaml
     interval: 86400
 port: 7890

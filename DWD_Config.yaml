@@ -108,7 +108,7 @@ proxy-groups:
     proxies:
       - TROJAN
       - VMESS
-      - DIRECT
+      - REJECT
 rules:
   - RULE-SET,DWD_Ads,ADBLOCK
   - RULE-SET,DWD_Gaming,GAME
